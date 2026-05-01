@@ -152,7 +152,7 @@ Se pide saber la cantidad total de bultos que está transportando el camión.
 
 ##### Caso 1
 Suponiendo que el camión tiene:
-- El contenedor portuario con Knight Rider y Bumblebee.
+- El contenedor portuario con Knight Rider y Bumblebee. 
 - El embalaje de seguridad envolviendo los residuos radiactivos.
 - Arena a granel.
 - Un paquete de 50 ladrillos.
